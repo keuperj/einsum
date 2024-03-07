@@ -1,4 +1,8 @@
 # einsum
+## ToDO
+* PyTorch Batch GPU
+* Pytorch replace depthwise in real Network
+  
 ## intro
 * Wiki: https://en.wikipedia.org/wiki/Einstein_notation
 * blog: https://ajcr.net/Basic-guide-to-einsum/
